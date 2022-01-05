@@ -1,0 +1,207 @@
+.hello{
+    background-image: url("https://media.istockphoto.com/vectors/neon-quiz-sign-vector-design-template-quiz-neon-frame-light-banner-vector-id1248190953?k=20&m=1248190953&s=612x612&w=0&h=SFmTjXJ5wv9_lvUcU9lW12H7YElktS-xJA3uFlD8SiI=");
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.main-Div{
+    background-image:radial-gradient(rgb(11, 194, 255),rgb(1, 38, 97));
+    border-radius: 11px;
+    width: 500px;
+    margin: 50px auto;
+}
+.first-Row{
+    display: flex;
+    justify-content: space-between;
+}
+#quiz-App{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: rgb(235, 192, 4);
+}
+#time {
+    display: flex;
+}
+#time div{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 191, 255);
+    font-size: 34px;
+}
+.fix{
+    margin-left: 30px;
+    color: rgb(252, 4, 4) !important;
+}
+#colun{
+    margin: -11px 10px;
+    font-size: 45px !important;
+}
+#second-Row{
+    width: 100%;
+    margin-top: 90px;
+}
+#button{
+    color: rgb(182, 237, 255);
+    margin-bottom: 90px;
+    margin-top: 90px;
+    font-size: 60px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: transparent;
+    border: 5px solid rgb(115, 220, 255);
+    border-radius: 8px;
+    transition-property: all;
+    transition-duration: .5s;
+}
+#button:hover{
+    background-color: rgb(115, 220, 255);
+    color:rgb(3, 63, 160) ;
+    cursor: pointer;
+}
+#button:focus{
+    outline: none;
+}
+.none{
+    display: none;
+}
+#first-Zero,#second-Zero,#colun{
+    width: 24px;
+    text-align: center;
+}
+#first-Zero{
+    text-align: right !important;
+}
+#second-Zero{
+    margin-right: 20px;
+    text-align: left !important;
+}
+#questionHead{
+    font-size:38px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#question{
+    font-size: 32px;
+    color: rgb(115, 220, 255);
+    font-family:pt;
+    margin-left: 10px;
+    margin-right: 5px;
+    font-weight: bolder;
+}
+#label{
+    color:rgb(1, 22, 56);
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 10px;
+    font-weight: bold;
+    
+
+}
+#inputDiv{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.buttonNext{
+    margin-bottom: 20px;
+    letter-spacing: 5px;
+    color: rgb(182, 237, 255);
+    font-size: 38px;
+    font-weight: 600;
+    font-family: tanoli;
+    background-color: transparent;
+    border: 5px solid rgb(115, 220, 255);
+    border-radius: 8px;
+    transition-property: all;
+    transition-duration: .5s;
+}
+.buttonNext:hover{
+    background-color: rgb(115, 220, 255);
+    color:rgb(3, 63, 160) ;
+    cursor: pointer;
+}
+.buttonNext:focus{
+    outline: none;
+}
+#buttonNextDiv{
+    margin-top: 35px;
+    text-align: center;
+}
+.secondTimeRow{
+    margin-top: 40px !important;
+    padding-bottom: 20px;
+}
+.resultHead{
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: 80px;
+    font-weight: 600;
+    color: rgb(51, 38, 0);
+    font-family:  'Arial Narrow Bold', sans-serif;
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+.settingResult{
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: robot;
+    font-weight: 500;
+    color: rgb(0, 24, 63);
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+.tryAgainDiv{
+    text-align: center;
+    margin-top: 50px;
+}
+.link{
+    color:rgb(182, 237, 255) ;
+    font-size: 50px;
+    font-family: tanoli;
+    background-color: transparent;
+    border: 6px solid rgb(115, 220, 255);
+    border-radius: 7px;
+    padding: 0px 5px;
+    letter-spacing: 2px;
+    transition-property: all;
+    transition-duration: .5s;
+    cursor: pointer;
+    text-decoration: none;
+
+
+}
+.link:hover{
+    background-color:rgb(115, 220, 255) ;
+    color:rgb(3, 63, 160) ;
+    
+}
+.againBtn:focus{
+    outline: none;
+}
+.big{
+    margin-top: 90px;
+}
+.center{
+    text-align: center;
+}
+.changeColor{
+    color: rgba(255, 4, 4, 0.644) !important;
+    font-weight: bold !important;
+}
+.colour{
+    color: sienna;
+}
+
+
+
+
+
+
+
+
+
+
